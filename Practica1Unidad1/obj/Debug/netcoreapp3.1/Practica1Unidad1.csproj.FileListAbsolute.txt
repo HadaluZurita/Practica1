@@ -1,0 +1,13 @@
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\bin\Debug\netcoreapp3.1\Practica1Unidad1.exe
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\bin\Debug\netcoreapp3.1\Practica1Unidad1.deps.json
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\bin\Debug\netcoreapp3.1\Practica1Unidad1.runtimeconfig.json
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\bin\Debug\netcoreapp3.1\Practica1Unidad1.runtimeconfig.dev.json
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\bin\Debug\netcoreapp3.1\Practica1Unidad1.dll
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\bin\Debug\netcoreapp3.1\Practica1Unidad1.pdb
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\obj\Debug\netcoreapp3.1\Practica1Unidad1.csprojAssemblyReference.cache
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\obj\Debug\netcoreapp3.1\Practica1Unidad1.AssemblyInfoInputs.cache
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\obj\Debug\netcoreapp3.1\Practica1Unidad1.AssemblyInfo.cs
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\obj\Debug\netcoreapp3.1\Practica1Unidad1.csproj.CoreCompileInputs.cache
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\obj\Debug\netcoreapp3.1\Practica1Unidad1.dll
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\obj\Debug\netcoreapp3.1\Practica1Unidad1.pdb
+C:\Users\Hadaluz\source\repos\Practica1Unidad1\Practica1Unidad1\obj\Debug\netcoreapp3.1\Practica1Unidad1.genruntimeconfig.cache
